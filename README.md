@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Hidy - Image Steganography Tool
 
 ## Setup & Run
@@ -17,3 +18,6 @@ pip install -r requirements.txt
 ```bash
 python Hidy.py
 ```
+=======
+# security-project
+>>>>>>> 146973bbd017e25158fc5c4d5cd5389ae3dc1077
